@@ -1,7 +1,7 @@
 ![logo]( https://user-images.githubusercontent.com/132592735/236272041-b63f947f-fd83-4a99-a0a8-aa939e7f8d6b.png)
 
 <h1 align="center">Hi 👋, I'm Abhishek Kushwaha</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">A passionate data analyst student from India</h3>
  
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
