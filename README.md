@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://fb.com/abhisekkushwaha(ask)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhisekkushwaha(ask)" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek_10027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_10027" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhishek10027" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="abhishek10027" height="30" width="40" /></a>
+
 
 </p>
 
