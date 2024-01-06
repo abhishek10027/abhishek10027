@@ -1,5 +1,6 @@
-![logo]( https://user-images.githubusercontent.com/132592735/236272041-b63f947f-fd83-4a99-a0a8-aa939e7f8d6b.png)
-
+/*![logo]( https://user-images.githubusercontent.com/132592735/236272041-b63f947f-fd83-4a99-a0a8-aa939e7f8d6b.png) */
+![logo]( https://drive.google.com/file/d/1ZPbAVbEuWfaqA1LD2XOu9fzbg3QDJnnP/view?usp=sharing
+)
 <h1 align="center">Hi 👋, I'm Abhishek Kushwaha</h1>
 <h3 align="center">A passionate data analyst student from India</h3>
  
